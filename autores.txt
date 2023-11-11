@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 Pablo Maragoto
 a23pablomd@iessanclemente.net
 11/11/2023
 18:52
+=======
+Lucía Corzón
+a23luciacv@iessanclemente.net
+Pablo Maragoto
+a23pablomd@iessanclemente.net
+11/11/2023
+18:50
+Negreira
+>>>>>>> 0d248d211ba1701f086bb79810fe541a9f7c39d7
